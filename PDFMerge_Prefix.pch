@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PDFMerge' target in the 'PDFMerge' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
